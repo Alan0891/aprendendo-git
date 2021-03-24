@@ -1,0 +1,19 @@
+{
+    "name": "alan_cesar/project",
+    "description": "projetos portfolio",
+    "authors": [
+        {
+            "name": "Alan Cesar",
+            "email": "acesarrocha3@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app/"
+        },
+        "files": [
+            "config.php"
+        ]
+    }
+}
